@@ -1,0 +1,8 @@
+{
+  "user":"username",
+  "pwd":"password",
+  "authorized_users":["user1", "user2"],
+  "notification":{
+  	"jira":["[~jirauser1]","[~jirauser2]"]
+  }
+}
